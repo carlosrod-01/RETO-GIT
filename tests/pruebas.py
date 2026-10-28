@@ -1,1 +1,1 @@
-reservas = [sin reservas]
+reservas = []
