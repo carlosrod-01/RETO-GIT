@@ -1,0 +1,1 @@
+reservas = [sin reservas]
